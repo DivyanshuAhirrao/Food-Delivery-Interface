@@ -236,6 +236,11 @@ li {
 .cards-container{
    height: 2rem;
 }
+h4{
+    background-color: rgba(223, 86, 143, 0.3);
+    text-align: center;
+    box-shadow: 0 8px 8px 8px rgb(231, 228, 228);
+}
 
 
                             /* || Main-Carousel || */
